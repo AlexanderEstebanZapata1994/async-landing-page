@@ -1,0 +1,23 @@
+{
+  "name": "async-landing-page",
+  "version": "1.0.0",
+  "description": "Platzi Course project made with JS, Html and CSS",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderEstebanZapata1994/async-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderEstebanZapata1994/async-landing-page/issues"
+  },
+  "homepage": "https://github.com/AlexanderEstebanZapata1994/async-landing-page#readme",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
